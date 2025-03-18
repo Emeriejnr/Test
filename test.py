@@ -5,3 +5,6 @@ b = float(input("enter the second: "))
 print(a+b)
 if a >= b:
     print("How are you doing")
+    
+else:
+    print("Your are the boss")
